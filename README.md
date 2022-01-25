@@ -5,6 +5,7 @@
 ![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
 
 A template for building OpenWrt with GitHub Actions
+Details reference ：![P3terx Zone](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 ## Usage
 
