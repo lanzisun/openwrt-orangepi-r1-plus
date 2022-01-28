@@ -6,6 +6,7 @@
 
 A template for building OpenWrt with GitHub Actions
 
+
 ## Usage
 
 - Generate `.config` files using [Lean's OpenWrt](https://github.com/coolsnowwolf/lede) source code. ( You can change it through environment variables in the workflow file. )
