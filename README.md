@@ -43,14 +43,11 @@ LuCI ---> Applications ---> luci-app-passwall #不敢解释
 LuCI ---> Applications ---> luci-app-mwan3   #MWAN负载均衡
 LuCI ---> Applications ---> luci-app-nlbwmon   #网络带宽监视器
 LuCI ---> Applications ---> luci-app-samba   #网络共享(Samba)
-LuCI ---> Applications ---> luci-app-passwall  #不做解释
 LuCI ---> Applications ---> luci-app-ttyd #终端命令行工具
 LuCI ---> Applications ---> luci-app-unblockneteasemusic  #去除网易音乐灰标
 LuCI ---> Applications ---> luci-app-upnp   #通用即插即用UPnP(端口自动转发)
 LuCI ---> Applications ---> luci-app-watchcat #断网检测功能与定时重启
 LuCI ---> Applications ---> luci-app-wol   #WOL网络唤醒
-LuCI ---> Applications ---> luci-app-xinit  
-LuCI ---> Applications ---> luci-app-zerotier #虚拟局域网
 
 # 常用主题类
 LuCI ---> Themes ---> luci-theme-argon
