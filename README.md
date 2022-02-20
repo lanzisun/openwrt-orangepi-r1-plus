@@ -49,6 +49,9 @@ LuCI ---> Applications ---> luci-app-upnp   #通用即插即用UPnP(端口自动
 LuCI ---> Applications ---> luci-app-watchcat #断网检测功能与定时重启
 LuCI ---> Applications ---> luci-app-wol   #WOL网络唤醒
 
+LuCI ---> Protocols ---> luci-proto-ipv5
+LuCI ---> Protocols ---> luci-proto-ppp 
+
 # 常用主题类
 LuCI ---> Themes ---> luci-theme-argon
 
@@ -74,8 +77,7 @@ Utilities --> Filesystem --> resize2fs #调整文件系统大小
 # IPv6
 Network ---> odhcp6c
 Network ---> odhcpd-ipv6only
-LuCI ---> Protocols ---> luci-proto-ipv6
-LuCI ---> Protocols ---> luci-proto-ppp		
+
 ```
 
 ## Usage
