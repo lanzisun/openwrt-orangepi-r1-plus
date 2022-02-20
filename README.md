@@ -27,7 +27,6 @@ Target Images ---> Root filesystem partition size (512)
 ## 插件类
 LuCI ---> Collections ---> luci
 LuCI ---> Applications ---> luci-app-adblock   #去广告
-LuCI ---> Applications ---> luci-app-arpbind  #IP/MAC绑定
 LuCI ---> Applications ---> luci-app-aliddns   #阿里DDNS客户端
 LuCI ---> Applications ---> luci-app-aliyundrive-webdav   #阿里云盘客户端
 LuCI ---> Applications ---> luci-app-argon-config #Argon主题设置
@@ -44,7 +43,6 @@ LuCI ---> Applications ---> luci-app-passwall #不敢解释
 LuCI ---> Applications ---> luci-app-mwan3   #MWAN负载均衡
 LuCI ---> Applications ---> luci-app-nlbwmon   #网络带宽监视器
 LuCI ---> Applications ---> luci-app-samba   #网络共享(Samba)
-LuCI ---> Applications ---> luci-app-sqm  #流量智能队列管理(QOS)
 LuCI ---> Applications ---> luci-app-passwall  #不做解释
 LuCI ---> Applications ---> luci-app-ttyd #终端命令行工具
 LuCI ---> Applications ---> luci-app-unblockneteasemusic  #去除网易音乐灰标
