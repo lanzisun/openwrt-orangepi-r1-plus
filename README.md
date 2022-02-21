@@ -25,7 +25,6 @@ Target Images ---> Root filesystem partition size (512)
 
 ```shell
 ## 插件类
-LuCI ---> Collections ---> luci
 LuCI ---> Applications ---> luci-app-adblock   #去广告
 LuCI ---> Applications ---> luci-app-aliddns   #阿里DDNS客户端
 LuCI ---> Applications ---> luci-app-aliyundrive-webdav   #阿里云盘客户端
@@ -44,10 +43,13 @@ LuCI ---> Applications ---> luci-app-mwan3   #MWAN负载均衡
 LuCI ---> Applications ---> luci-app-nlbwmon   #网络带宽监视器
 LuCI ---> Applications ---> luci-app-samba   #网络共享(Samba)
 LuCI ---> Applications ---> luci-app-ttyd #终端命令行工具
+LuCI ---> Applications ---> luci-app-uhttpd #LuCI Http webserver 配置
 LuCI ---> Applications ---> luci-app-unblockneteasemusic  #去除网易音乐灰标
 LuCI ---> Applications ---> luci-app-upnp   #通用即插即用UPnP(端口自动转发)
 LuCI ---> Applications ---> luci-app-watchcat #断网检测功能与定时重启
 LuCI ---> Applications ---> luci-app-wol   #WOL网络唤醒
+
+LuCI ---> Collections ---> luci  #LuCI http webserver
 
 LuCI ---> Protocols ---> luci-proto-ipv5
 LuCI ---> Protocols ---> luci-proto-ppp 
