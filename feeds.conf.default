@@ -1,5 +1,5 @@
 src-git packages https://github.com/coolsnowwolf/packages
-src-git luci https://github.com/openwrt/luci.git
+src-git luci https://github.com/coolsnowwolf/luci
 
 #src-git packages https://git.openwrt.org/feed/packages.git
 #src-git luci https://git.openwrt.org/project/luci.git
@@ -10,6 +10,3 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
 
-src-git kenzo https://github.com/kenzok8/openwrt-packages
-#src-git helloword https://github.com/fw876/helloworld
-src-git passwall https://github.com/xiaorouji/openwrt-passwall
