@@ -1,1 +1,4 @@
 setup/network
+setup/temperature
+.config.lts
+.gitignore
